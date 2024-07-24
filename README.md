@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @Bilalwarind
 - 👀 I’m interested in New Technologies 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently working as senior Mobile app developer
+- 💞️ I’m looking to collaborate on Frontend Mobile app developement
+- 📫 reach by sending me email or contact me on my fiverr profile https://www.fiverr.com/s/qDxkBD2
 
-<!---
-Bilalwarind/Bilalwarind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
